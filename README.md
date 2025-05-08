@@ -2,6 +2,8 @@
 
 ## [Brno University of Technology – Faculty of Information Technology](https://www.fit.vut.cz/.en)
 
+Bachelor's degree – Information Technology
+
 ### 1st Semester (Sep 20, 2021 – Dec 17, 2021)
 
 - **IDM – Discrete Mathematics**
@@ -82,3 +84,16 @@
 
 - **IBT – Bachelor's Thesis**
   - [Bachelor's Thesis](https://github.com/JosefKuchar/text2video)
+
+## [Masaryk University – Faculty of Informatics](https://www.muni.cz/en/about-us/organizational-structure/faculty-of-informatics)
+
+Master's degree – Software Engineering
+
+### 1st Semester (Sep 16, 2024 – Dec 20, 2024)
+
+- **PA220 – Database systems for data analytics**
+  - [Project](https://github.com/JosefKuchar/pa220-project)
+- **PV197 – GPU Programming**
+  - [Project](https://github.com/JosefKuchar/pv197-gpu-programming)
+- **PV281 – Programming in Rust**
+  - [Project](https://github.com/JosefKuchar/pv281-warcraft-ii)
