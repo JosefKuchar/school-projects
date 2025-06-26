@@ -97,3 +97,16 @@ Master's degree – Software Engineering
   - [Project](https://github.com/JosefKuchar/pv197-gpu-programming)
 - **PV281 – Programming in Rust**
   - [Project](https://github.com/JosefKuchar/pv281-warcraft-ii)
+
+### 2nd Semester (Feb 17, 2025 – May 19, 2025)
+
+- **PA053 – Distributed Systems and Middleware**
+  - [Assignment 1](https://github.com/JosefKuchar/pa053-hw1)
+  - [Assignment 2](https://github.com/JosefKuchar/pa053-hw2)
+  - [Assignment 3](https://github.com/JosefKuchar/pa053-hw3)
+- **PV003 – Relational Database System Architecture**
+  - [Project](https://github.com/JosefKuchar/pv003-project)
+- **PV056 – Machine Learning and Data Mining**
+  - [Project](https://github.com/JosefKuchar/pv056-urbansound8k)
+- **PV286 – Secure coding principles and practices**
+  - [Project](https://github.com/JosefKuchar/pv286-project) 
