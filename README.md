@@ -109,4 +109,15 @@ Master's degree – Software Engineering
 - **PV056 – Machine Learning and Data Mining**
   - [Project](https://github.com/JosefKuchar/pv056-urbansound8k)
 - **PV286 – Secure coding principles and practices**
-  - [Project](https://github.com/JosefKuchar/pv286-project) 
+  - [Project](https://github.com/JosefKuchar/pv286-project)
+ 
+### 3rd Semester (Sep 15, 2025 – Dec 19, 2025)
+
+- **PV179 – System Development in C#/.NET**
+  - [Project](https://github.com/JosefKuchar/pv179-project)
+- **PV198 – Onechip Controllers**
+  - [Labs](https://github.com/JosefKuchar/pv198-labs)
+- **PV247 – Modern Development of User Interfaces**
+  - [Project](https://github.com/JosefKuchar/pv247-project)
+- **PV293 – Software Architectures**
+  - [Project](https://github.com/JosefKuchar/pv293-project)
