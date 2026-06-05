@@ -121,3 +121,15 @@ Master's degree – Software Engineering
   - [Project](https://github.com/JosefKuchar/pv247-project)
 - **PV293 – Software Architectures**
   - [Project](https://github.com/JosefKuchar/pv293-project)
+ 
+### 4th Semester (Feb 16, 2025 – May 19, 2025)
+
+- **PV026 – Large Language Models**
+  - [Project](https://github.com/JosefKuchar/pv026-project)
+- **PV260 – Software Quality**
+  - [Assignment](https://github.com/JosefKuchar/leap-year-mcp)
+  - [Project 1](https://github.com/JosefKuchar/pv260-tic-tac-toe)
+  - [Project 2](https://github.com/JosefKuchar/pv260-movie-scraper)
+- **SDIPR – Diploma Thesis**
+  - [Diploma Thesis](https://github.com/JosefKuchar/svg-generator)
+  - [Thesis Typst Template](https://github.com/JosefKuchar/muni-thesis-typst) 
